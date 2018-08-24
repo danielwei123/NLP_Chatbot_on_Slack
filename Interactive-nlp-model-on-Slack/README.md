@@ -1,6 +1,5 @@
 # Interactive-nlp-model-on-Slack
-● clean.py
-  This file is responsible for cleaning the sentence that user enters before running model.py. Cleaning process includes removing punctuation, tokenization, misspelling correction, stopwords filtering, lemmatisation, stemming and removing repetitive words.
+clean.py\nThis file is responsible for cleaning the sentence that user enters before running model.py. Cleaning process includes removing punctuation, tokenization, misspelling correction, stopwords filtering, lemmatisation, stemming and removing repetitive words.
 
 ● load.py
   This file is responsible for loading dictionary used for the nlp model.
